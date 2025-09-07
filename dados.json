@@ -2,26 +2,8 @@
     {
         "login": "guida",
         "senha": "guida",
-        "nome": "Tio Emir"
-    },
-    {
-        "login": "Tatikawa",
-        "senha": "Tatikawa",
-        "nome": "Tharcysio Tatikawa"
-    },
-    {
-        "login": "tatikawa",
-        "senha": "emir",
-        "nome": "daddy"
-    },
-    {
-        "login": "ee",
-        "senha": "33",
-        "nome": "ee"
-    },
-    {
-        "login": "ee",
-        "senha": "aa",
-        "nome": "33"
+        "nome": "Tio Emir",
+        "data": "02/01/2004",
+        "email": "emolas@pirocudo.com"
     }
 ]
